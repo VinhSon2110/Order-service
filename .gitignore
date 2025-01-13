@@ -33,4 +33,5 @@ build/
 .vscode/
 
 
+# because it show error when add to git #
 /mysql/mysql.sock
